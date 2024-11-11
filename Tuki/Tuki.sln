@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuki", "Tuki.csproj", "{EDFC823D-4052-4293-B3CF-D8B6179CF6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFC823D-4052-4293-B3CF-D8B6179CF6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFC823D-4052-4293-B3CF-D8B6179CF6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFC823D-4052-4293-B3CF-D8B6179CF6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFC823D-4052-4293-B3CF-D8B6179CF6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A3DF33-2EF2-4FF0-A935-90490510D62C}
+	EndGlobalSection
+EndGlobal
